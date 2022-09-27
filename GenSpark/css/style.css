@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-style: hidden;
+    padding: 100px;
+    border-spacing: 50px;
+}
+
+h1 {
+    font-size: 80px;
+    text-shadow: 2px 2px black;
+}
+
+
+body {
+    color: rgb(240, 227, 227);
+    background: whitesmoke;
+    font-family: sans-serif;
+    text-shadow: 2px 2px black;
+
+    background-image: url(/img/giphy.gif);
+
+    border-top: 10px solid #1098ad;
+    position: relative;
+    border-bottom: 10px solid #1098ad;
+    position: relative;
+}
+
+.container{
+    width: 800;
+    margin-right: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+nav {
+    font-size: 18px;
+}
